@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eevee Pokemon
+* source:	https://sketchfab.com/3d-models/eevee-pokemon-be609d949bc94e12a0add74c35ffa1b9
+* author:	selgrayshade (https://sketchfab.com/selgrayshade)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eevee Pokemon" (https://sketchfab.com/3d-models/eevee-pokemon-be609d949bc94e12a0add74c35ffa1b9) by selgrayshade (https://sketchfab.com/selgrayshade) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
